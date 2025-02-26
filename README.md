@@ -31,9 +31,8 @@ This project analyzes Billboard chart data and Spotify track audio features over
 - **Tracks-Artists Mapping**: Connections between artists and the tracks they have created.
 - **Audio Features**: Data on various audio characteristics like energy, danceability, loudness, and tempo.
 
-## Tools and Libraries Used
+## Libraries Used
 - **Python**: For data manipulation and analysis.
-- **Jupyter Notebook**: For running and documenting the analysis.
 - **Pandas**: Used for data cleaning and manipulation.
 - **NumPy**: For numerical operations.
 - **Matplotlib/Seaborn**: For visualizations.
